@@ -15,7 +15,7 @@ Else
 6.	Return 0
  
 Program:
-
+```
 #include<stdio.h> struct eligib
 {
 int age; char n[4];
@@ -40,7 +40,7 @@ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
 
 
 
-
+```
 Output:
 ![Screenshot 2025-04-25 101725](https://github.com/user-attachments/assets/155efcc1-bf98-4d1d-8ca2-c15a4fa8ce36)
 
@@ -67,7 +67,7 @@ Algorithm:
 7.	Return 0
  
 Program:
-
+```
 
 #include<stdio.h> struct numbers
 {
@@ -87,7 +87,7 @@ return n.a+n.b;
 
 
 
-
+```
 Output:
 
 ![Screenshot 2025-04-25 101951](https://github.com/user-attachments/assets/d92333f8-4c0c-477d-88f0-493fff398f98)
@@ -125,7 +125,7 @@ Use scanf to input the file name into the name array.
 5.	Return 0 to indicate successful program execution.
  
 Program:
-
+```
 #include <stdio.h> int main()
 {
 FILE *p;
@@ -137,7 +137,7 @@ printf("\n%s File Closed",name);
 
 
 
-
+```
 
 Output:
 
@@ -180,7 +180,7 @@ Use scanf to input the file name into the name array and the number of strings i
 5.	Return 0 to indicate successful program execution.
  
 Program:
-
+```
 
 #include <stdio.h> int main()
 {
@@ -195,7 +195,7 @@ printf("\nData added Successfully");
 }
 
 
-
+```
 
 
 Output:
@@ -247,7 +247,7 @@ Algorithm:
 
 Program:
 
-
+```
 #include <stdio.h>
 #include <stdlib.h>
 struct Subject
@@ -282,7 +282,7 @@ int main()
 
 
 
-
+```
 Output:
 ![Screenshot 2025-04-25 102335](https://github.com/user-attachments/assets/ef5e799b-ae37-4a7d-8f66-43313c5e19f9)
 
